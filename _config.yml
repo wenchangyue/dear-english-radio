@@ -1,0 +1,28 @@
+title: Dear English Radio
+description: >-
+  CEFR-aligned English listening lessons through clear conversations and
+  stories, with reviewed transcripts, useful words, questions, and sources.
+author: Wenchang Yue
+lang: en
+url: "https://wenchangyue.github.io"
+baseurl: "/dear-english-radio"
+
+collections:
+  episodes:
+    output: true
+    permalink: /episodes/:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: episodes
+    values:
+      layout: episode
+
+plugins:
+  - jekyll-sitemap
+
+exclude:
+  - README.md
+  - TEMPLATE-episode.md
+
