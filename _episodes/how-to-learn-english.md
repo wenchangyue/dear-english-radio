@@ -10,6 +10,9 @@ cefr_level: B1
 cefr_label: Intermediate
 topic: How to Learn English
 format: English conversation
+youtube_url: https://youtu.be/qwZ0YVAbHWA
+video_id: qwZ0YVAbHWA
+upload_date: 2026-07-12
 duration: PT21M42S
 quick_answer: >-
   Knowing words and grammar can build recognition, but conversation also needs
