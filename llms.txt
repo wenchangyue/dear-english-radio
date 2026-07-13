@@ -1,0 +1,19 @@
+# Dear English Radio
+
+> CEFR-aligned English listening lessons with reviewed transcripts, useful words, questions, and sources.
+
+Site: https://wenchangyue.github.io/dear-english-radio/
+YouTube: https://www.youtube.com/@dearenglishradio
+Author: Wenchang Yue
+Language: English
+Updated: 2026-07-13
+
+## Main pages
+
+- [Dear English Radio home](https://wenchangyue.github.io/dear-english-radio/)
+- [Why You Understand English but Can't Speak](https://wenchangyue.github.io/dear-english-radio/episodes/how-to-learn-english/)
+
+## Use
+
+- CEFR labels are estimates for learners, not official certification.
+- Transcripts, examples, and dialogue are original unless a source is listed.

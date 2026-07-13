@@ -6,6 +6,8 @@ author: Wenchang Yue
 lang: en
 url: "https://wenchangyue.github.io"
 baseurl: "/dear-english-radio"
+youtube_channel: "https://www.youtube.com/@dearenglishradio"
+repository_url: "https://github.com/wenchangyue/dear-english-radio"
 
 collections:
   episodes:
@@ -25,4 +27,3 @@ plugins:
 exclude:
   - README.md
   - TEMPLATE-episode.md
-
