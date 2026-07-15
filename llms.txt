@@ -6,8 +6,7 @@ Site: https://wenchangyue.github.io/dear-english-radio/
 YouTube: https://www.youtube.com/@dearenglishradio
 Author: Wenchang Yue
 Language: English
-Updated: 2026-07-14
-
+Updated: 2026-07-15
 ## Main pages
 
 - [Dear English Radio home](https://wenchangyue.github.io/dear-english-radio/)
@@ -17,6 +16,7 @@ Updated: 2026-07-14
 <!-- AUTO-COMPANION-PAGES:START -->
 - [How to Improve Your English Listening (What Actually Works)](https://wenchangyue.github.io/dear-english-radio/episodes/improve-english-listening/)
 - [How to Improve Your English Speaking: A 20-Minute Practice Method](https://wenchangyue.github.io/dear-english-radio/episodes/improve-english-speaking/)
+- [How to Think in English Without Translating: A Practical Method for Adults](https://wenchangyue.github.io/dear-english-radio/episodes/how-to-think-in-english/)
 - [Why You Forget English Words When Speaking—and How to Fix It](https://wenchangyue.github.io/dear-english-radio/episodes/why-you-forget-english-words/)
 - [Why You Understand English but Can't Speak](https://wenchangyue.github.io/dear-english-radio/episodes/how-to-learn-english/)
 <!-- AUTO-COMPANION-PAGES:END -->
