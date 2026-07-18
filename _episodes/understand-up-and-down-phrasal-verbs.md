@@ -9,9 +9,9 @@ cefr_level: B1
 cefr_label: Intermediate
 topic: English vocabulary and phrasal verbs
 format: English conversation
-youtube_url: https://youtu.be/I3c3Rc-T4Hw
-video_id: I3c3Rc-T4Hw
-upload_date: '2026-07-17T20:21:26Z'
+youtube_url: https://youtu.be/6AWen7XQxjY
+video_id: 6AWen7XQxjY
+upload_date: '2026-07-18T01:09:02Z'
 duration: PT25M33S
 quick_answer: 'UP and DOWN do not have one fixed translation in phrasal verbs. UP often helps organize
   meanings around higher, more, active, visible, or complete states, while DOWN often helps organize lower,

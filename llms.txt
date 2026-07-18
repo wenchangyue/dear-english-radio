@@ -6,7 +6,7 @@ Site: https://wenchangyue.github.io/dear-english-radio/
 YouTube: https://www.youtube.com/@dearenglishradio
 Author: Wenchang Yue
 Language: English
-Updated: 2026-07-17
+Updated: 2026-07-18
 ## Main pages
 
 - [Dear English Radio home](https://wenchangyue.github.io/dear-english-radio/)
