@@ -11,8 +11,8 @@ topic: English vocabulary and phrasal verbs
 format: English conversation
 youtube_url: https://youtu.be/_ePUe0hSSd0
 video_id: _ePUe0hSSd0
-upload_date: '2026-08-01T16:13:44Z'
-duration: PT24M18S
+upload_date: '2026-08-01T16:15:52Z'
+duration: PT24M19S
 quick_answer: 'Start with away or separated: something leaves a surface, place, connection, plan, or expected
   path. That picture can organize many uses of OFF, but it is not a decoding rule. The base verb, subject,
   object, grammar, dialect, and the complete expression choose the final meaning.'
