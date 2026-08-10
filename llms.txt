@@ -6,7 +6,7 @@ Site: https://wenchangyue.github.io/dear-english-radio/
 YouTube: https://www.youtube.com/@dearenglishradio
 Author: Wenchang Yue
 Language: English
-Updated: 2026-08-01
+Updated: 2026-08-10
 ## Main pages
 
 - [Dear English Radio home](https://wenchangyue.github.io/dear-english-radio/)
@@ -14,6 +14,7 @@ Updated: 2026-08-01
 ## Episode pages
 
 <!-- AUTO-COMPANION-PAGES:START -->
+- [GET Has Too Many Meanings Until You See This Pattern](https://wenchangyue.github.io/dear-english-radio/episodes/why-get-has-so-many-meanings/)
 - [How to Improve Your English Listening (What Actually Works)](https://wenchangyue.github.io/dear-english-radio/episodes/improve-english-listening/)
 - [How to Improve Your English Speaking: A 20-Minute Practice Method](https://wenchangyue.github.io/dear-english-radio/episodes/improve-english-speaking/)
 - [How to Think in English Without Translating: A Practical Method for Adults](https://wenchangyue.github.io/dear-english-radio/episodes/how-to-think-in-english/)
