@@ -10,7 +10,7 @@ topic: Travel English
 format: English conversation and role-play
 youtube_url: https://youtu.be/Lm8t4BgBh9g
 video_id: Lm8t4BgBh9g
-upload_date: '2026-08-17T13:54:33Z'
+upload_date: '2026-08-17T13:59:52Z'
 duration: PT5M22S
 quick_answer: Say that you noticed the change, give your flight number and ask for the new gate, ask how
   to get there, and check whether boarding has started.
