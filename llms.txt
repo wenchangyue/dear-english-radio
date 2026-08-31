@@ -6,7 +6,7 @@ Site: https://wenchangyue.github.io/dear-english-radio/
 YouTube: https://www.youtube.com/@dearenglishradio
 Author: Wenchang Yue
 Language: English
-Updated: 2026-08-17
+Updated: 2026-08-31
 ## Main pages
 
 - [Dear English Radio home](https://wenchangyue.github.io/dear-english-radio/)
@@ -18,6 +18,7 @@ Updated: 2026-08-17
 - [GET Has Too Many Meanings Until You See This Pattern](https://wenchangyue.github.io/dear-english-radio/episodes/why-get-has-so-many-meanings/)
 - [How to Improve Your English Listening (What Actually Works)](https://wenchangyue.github.io/dear-english-radio/episodes/improve-english-listening/)
 - [How to Improve Your English Speaking: A 20-Minute Practice Method](https://wenchangyue.github.io/dear-english-radio/episodes/improve-english-speaking/)
+- [How to Order Coffee—and Fix a Mistake](https://wenchangyue.github.io/dear-english-radio/episodes/what-to-say-when-ordering-coffee/)
 - [How to Think in English Without Translating: A Practical Method for Adults](https://wenchangyue.github.io/dear-english-radio/episodes/how-to-think-in-english/)
 - [Why Does an Alarm Go OFF When It Turns ON?](https://wenchangyue.github.io/dear-english-radio/episodes/why-english-adds-off/)
 - [Why Does English Add OUT? The Hidden Logic of Phrasal Verbs](https://wenchangyue.github.io/dear-english-radio/episodes/why-english-adds-out/)
